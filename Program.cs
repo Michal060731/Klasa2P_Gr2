@@ -12,6 +12,8 @@ namespace Konsola2
         {
             Console.WriteLine("Klasa 2P");
             Console.WriteLine("Grupa 2");
+            Console.WriteLine("Zmiana");
+            Console.ReadLine();
         }
     }
 }
